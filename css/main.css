@@ -1,0 +1,30 @@
+html, body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+.container {
+	/*width:100%;*/
+	/*height:100%;*/
+	/*background: black;*/
+}
+
+.controls {
+	margin: 0;
+	text-align: center;
+}
+
+.hex-code {
+	font-family: sans-serif;
+	position: relative;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	display: block;
+	width: 80px;
+	padding: 10px;
+	border-radius: 10%;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
